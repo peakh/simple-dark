@@ -1,0 +1,26 @@
+{
+  "name": "simple-dark",
+  "displayName": "Simple Dark",
+  "description": "Simply darken your Visual Studio Code environment with this substantially dark theme.",
+  "publisher": "Noah",
+  "icon": "./icon.png",
+  "repository": {
+    "url": "https://github.com/peakh/simple-dark"
+  },
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Simple Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Simple Dark-color-theme.json"
+      }
+    ]
+  }
+}
