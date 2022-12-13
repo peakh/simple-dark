@@ -124,7 +124,18 @@
 		"settings.numberInputBackground": "#161616",
 		"settings.modifiedItemIndicator": "#d1d1d1",
 
-		"menu.background": "#030303"
+		"menu.background": "#030303",
+
+		"notifications.background": "#131313",
+		"notifications.foreground": "#ffffff",
+		"notifications.border": "#000000",
+		"notificationToast.border": "#000000",
+		"notificationCenter.border": "#000000",
+		"notificationsWarningIcon.foreground": "#fa861a",
+		"notificationsErrorIcon.foreground": "#ff0000",
+		"notificationsInfoIcon.foreground": "#2364f0",
+		"notificationLink.foreground": "#1e4ce4"
+		
 	},
 	"tokenColors": [
 		{
