@@ -157,7 +157,7 @@
 			],
 			"settings": {
 				// "fontStyle": "italic",
-				"foreground": "#fab1f4"
+				"foreground": "#dddddd"
 			}
 		},
 		{
@@ -232,7 +232,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#2b73df" // ? May change later.
+				"foreground": "#e2acfc" // ? May change later.
 			}
 		},
 		{
