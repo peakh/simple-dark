@@ -3,7 +3,7 @@
   "displayName": "Simple Dark",
   "description": "Simply darken your Visual Studio Code environment with this substantially dark theme.",
   "publisher": "Noah",
-  "icon": "./icon.png",
+  "icon": "icon.png",
   "repository": {
     "url": "https://github.com/peakh/simple-dark"
   },
