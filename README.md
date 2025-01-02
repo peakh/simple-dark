@@ -14,7 +14,7 @@
 
 <hr>
 
-![theme](./screenshots/display.png)
+![Theme preview](./screenshots/display.png)
 
 <!-- ## Working with Markdown
 
